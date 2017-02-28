@@ -16,6 +16,11 @@
 
 ## Usage
 
+Accepted props:
+
+`refreshTimeout`: In milisecond
+`className`: Your custom class name
+
 Include `react-progress-2/main.css` to your project. With [SystemJS CSS plugin](https://github.com/systemjs/plugin-css) you simply need to write this line:
 ```js
 import "react-progress-2/main.css!"
